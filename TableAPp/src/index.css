@@ -1,0 +1,15 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+.effect:hover{
+    background-color: skyblue;
+    
+
+}
+.widht{
+    width:20%;
+    border:1px solid black;
+}
+.table-hover:hover{
+    background-color:red ;
+}
